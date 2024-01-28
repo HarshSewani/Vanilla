@@ -1,0 +1,22 @@
+{
+    "token" : "[Paste Your Bot token]",
+    "prefix" : "$",
+    "color" : "#ABBCEF",
+    "owners" : ["948980125251297323"],
+      "mongourl" : "",
+    "errors" : "https://discord.com/api/webhooks/1132896313609035878/MzMxHmyRkWpUPPIi57wOCnW26ge-TRKnJJOU8Ny7yv2GpoteUqpZGn7KmODyGqau8tVX",
+    "spotifyId" : "40c5ee08678d4e60aef46bedc6761fd4",
+    "noprefix" : "921602447754031175",
+  "mongourl2" : "",    
+  "spotifySecret" : "2e8ef57a93454b31b035569f64fea7c8",
+    "topggapi" : "",
+    "server" : "https://discord.gg/H4RRY",
+    "nodes" : [
+             {
+        "name" : "Vanilla",
+        "url" : "harshsewani.me:55561",
+        "auth" : "yoo",
+        "secure" : false
+        }
+    ]
+}
