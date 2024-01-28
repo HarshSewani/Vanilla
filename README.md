@@ -1,8 +1,8 @@
 # Vanilla - Discord Music Bot
 
-[![GitHub stars](https://img.shields.io/github/stars/HarshSewani/Project-Vanilla.svg)](https://github.com/HarshSewani/Project-Vanilla/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/HarshSewani/Project-Vanilla.svg)](https://github.com/HarshSewani/Project-Vanilla/issues)
-[![GitHub license](https://img.shields.io/github/license/HarshSewani/Project-Vanilla.svg)](https://github.com/HarshSewani/Project-Vanilla/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/HarshSewani/Vanilla.svg)](https://github.com/HarshSewani/Vanilla/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/HarshSewani/Vanilla.svg)](https://github.com/HarshSewani/Vanilla/issues)
+[![GitHub license](https://img.shields.io/github/license/HarshSewani/Vanilla.svg)](https://github.com/HarshSewani/Vanilla/blob/main/LICENSE)
 
 Vanilla is a powerful and customizable Discord music bot framework that simplifies the process of creating feature-rich music bots for your Discord server. Whether you're a seasoned developer or just starting with Discord bot development, Vanilla provides a solid foundation for building a music bot tailored to your needs.
 
@@ -45,6 +45,6 @@ If you have any questions or need assistance, feel free to join our [Discord ser
 
 ## License
 
-Vanilla is released under the [Special License](https://github.com/HarshSewani/Project-Vanilla/blob/main/LICENSE).
+Vanilla is released under the [Special License](https://github.com/HarshSewani/Vanilla/blob/main/LICENSE).
 
 Happy coding! 🎶✨
